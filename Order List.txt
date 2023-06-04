@@ -1,0 +1,55 @@
+555
+Hello 555
+You Have Ordered :
+================================================================================================================
+ITEM                                 QUANTITY     UNIT PRICE     AMOUNT OF SALE
+=================================================================================================================
+Durian Cream Puff:	                2              15                  30
+
+Strawberry Swiss Roll:	                0              17                   0
+
+Mango Cheese Cake:	                0              15                   0
+
+Macaron Lychee Rose & Red Velvet:	0              30                   0
+
+Butter Croissant:	                3              30                  90
+   
+
+Mango Tango:	                        9              10                  90
+
+Cappucino:	                        0               8                   0
+
+Green Smoothie:	                        0               5                   0
+
+Latte:	                                0               5                   0
+
+Mocha:	                                0               6                   0
+ Your total bil is RM210
+
+Hello 555
+You Have Ordered :
+================================================================================================================
+ITEM                                 QUANTITY     UNIT PRICE     AMOUNT OF SALE
+=================================================================================================================
+Durian Cream Puff:	                2              15                  30
+
+Strawberry Swiss Roll:	                0              17                   0
+
+Mango Cheese Cake:	                0              15                   0
+
+Macaron Lychee Rose & Red Velvet:	0              30                   0
+
+Butter Croissant:	                3              30                  90
+   
+
+Mango Tango:	                        9              10                  90
+
+Cappucino:	                        0               8                   0
+
+Green Smoothie:	                        0               5                   0
+
+Latte:	                                0               5                   0
+
+Mocha:	                                0               6                   0
+ Your total bil is RM210
+
