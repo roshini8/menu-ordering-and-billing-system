@@ -1,5 +1,4 @@
-//THIS PROJECT IS BROUGHT TO YOU BY CODE-PROJECTS//
-//FOR MORE PROJECTS. LOG ON TO : www.code-projects.org//
+
 #include <iostream>
 #include <cctype>
 #include <cstdlib>
